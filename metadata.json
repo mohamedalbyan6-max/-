@@ -1,0 +1,8 @@
+{
+  "name": "Remix Alsafy Motors",
+  "description": "Premium pre-owned vehicles with competitive pricing and exceptional customer service in Alexandria, Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
